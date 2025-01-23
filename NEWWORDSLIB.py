@@ -66,3 +66,15 @@ print("Random 10 words from PyDictionary:", pydictionary_sample)
 print("Random 10 words from pyenchant:", enchant_sample)
 
 
+
+
+
+
+
+
+!pip install nltk 
+!pip install PyDictionary
+!pip install pyenchant
+!pip install enchant
+!apt-get install -y enchant
+
