@@ -6,7 +6,6 @@ import nltk
 nltk.download('punkt_tab')
 
 
-
 from random_word import RandomWords
 import nltk
 from nltk.corpus import wordnet as wn
